@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jenzalkind
 <!--- - 👀 I’m interested in ... --->
-- 🌱 I’m currently learning Computer Science BSc at Holon Institute of Technology
+- 🌱 I’m currently Computer Science BSc student at Holon Institute of Technology
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me - jen.zalkind@gmail.com
 
